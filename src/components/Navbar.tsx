@@ -41,7 +41,7 @@ const Navbar = () => {
             className="flex items-center space-x-2 text-xl font-bold text-glow"
           >
             <div className="w-8 h-8 bg-gradient-to-br from-primary to-primary-glow rounded-lg animate-glow-pulse" />
-            <span>TechPortfolio</span>
+            <span>Correa Labs</span>
           </Link>
 
           {/* Desktop Navigation */}
